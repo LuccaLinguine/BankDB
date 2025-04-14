@@ -157,9 +157,6 @@
         <mxCell id="snwVZUiGdkBFRitPu1Vy-94" value="Price DECIMAL (10,2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="snwVZUiGdkBFRitPu1Vy-86" vertex="1">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="NgN0BXzhdlTkf5-zVeId-164" value="Hur nöjda är folk med våra produkter&lt;div&gt;&lt;br&gt;&lt;div&gt;Hur många snitt-orders gör folk/år&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vilken Produkt har högst/Lägst Reviews&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hur Betalar Folk?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="110" width="240" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="NgN0BXzhdlTkf5-zVeId-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="snwVZUiGdkBFRitPu1Vy-101" target="NgN0BXzhdlTkf5-zVeId-216">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -294,9 +291,6 @@
         </mxCell>
         <mxCell id="NgN0BXzhdlTkf5-zVeId-348" value="Price DECIMAL (10,2)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NgN0BXzhdlTkf5-zVeId-343">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="NgN0BXzhdlTkf5-zVeId-350" value="Hur nöjda är folk med våra produkter&lt;div&gt;&lt;br&gt;&lt;div&gt;Hur många snitt-orders gör folk/år&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vilken Produkt har högst/Lägst Reviews&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hur Betalar Folk?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hur Mycket kunder spenderar totalt/per order&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="98" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NgN0BXzhdlTkf5-zVeId-352" value="Date" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1780" y="750" width="240" height="364" as="geometry">
